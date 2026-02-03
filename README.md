@@ -25,7 +25,7 @@ result= np.linalg.solve(matrixA,B)
 print(result)
 ```
 ## Output:
-![output](<Screenshot 2026-02-03 112133.png>)
+![output](<Screenshot 2026-02-03 112149.png>)
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
